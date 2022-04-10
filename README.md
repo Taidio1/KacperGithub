@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking for help with **Mobile App 😬**
 
-- 👨‍💻 All of my projects are available at [Soon](Soon)
+- 👨‍💻 All of my projects are available at GitHub
 
 - 💬 Ask me about **.NET and C# 😎**
 
