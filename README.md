@@ -4,11 +4,7 @@
 
 - 🔭 I’m currently working on **CRM Program😅**
 
-- 🌱 I’m currently learning **Next.js and Blazor **
-
-- 🤝 I’m looking for help with **Mobile App 😬**
-
-- 👨‍💻 All of my projects are available at GitHub
+- 🌱 I’m currently learning ** Angular **
 
 - 💬 Ask me about **.NET and C# 😎**
 
