@@ -2,17 +2,7 @@
 <h1 align="center">Hi 👋, I'm Kacper</h1>
 <h3 align="center">A ambitious junior full-stack developer from Poland</h3>
 
-- 🔭 I’m currently working on **CRM Program😅**
-
-- 🌱 I’m currently learning ** Angular **
-
-- 💬 Ask me about **.NET and C# 😎**
-
-- 📫 How to reach me **kkacper15@gmail.com**
-
-- ⚡ Fun fact **I realy like Cats😻**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact:</h3>
 <p align="left">
 <a href="https://codepen.io/taidio1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="taidio1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kacper łacniak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kacper łacniak" height="30" width="40" /></a>
