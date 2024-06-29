@@ -1,6 +1,6 @@
 ![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm Kacper</h1>
-<h3 align="center">A ambitious junior full-stack developer from Poland</h3>
+<h3 align="center">A ambitious full-stack developer from Poland</h3>
 
 <h3 align="left">Contact:</h3>
 <p align="left">
